@@ -9,4 +9,4 @@ RegisterCommand('help', function()
     msg("teamspeak: ts.teamx.ml")
     msg("To read our server rules and pley")
     msg("https://domain.com/rules")
-end, false)```
+end, false)
